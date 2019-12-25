@@ -21,7 +21,7 @@ Get started quickly [run_demo.ipynb](https://github.com/mengcius/Surface-Defect-
 
 ### Performance
 
-![1577236972283](./image/per.jpg)
+![1577236972283](./image/per.JPG)
 
 
 
