@@ -32,4 +32,5 @@ Trained model：
 [decision_net_100.pth](https://github.com/mengcius/Surface-Defect-Detection/blob/master/saved_models/decision_net_100.pth)
 
 
-
+DATASET：
+[KolektorSDD_Data](https://mengcius.coding.net/api/share/download/2e3e085d-d26c-4c63-b57d-a3f066443d89)
