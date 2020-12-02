@@ -3,7 +3,7 @@ PyTorch implementation of "Segmentation-Based Deep-Learning Approach for Surface
 
 
 
-### TODO List
+### Done
 
 * add Depthwise+Pointwise 
 * add Inception
